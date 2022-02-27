@@ -1,4 +1,4 @@
-public class Banco {
+public class Cliente {
 
     private String nome;
 
@@ -10,3 +10,4 @@ public class Banco {
         this.nome = nome;
     }
 }
+
